@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\C# completo\Exercicio_FIXACAO_81\Exercicio_FIXACAO_81\bin\Debug\net6.0\Exercicio_FIXACAO_81.exe
+C:\Users\Hugo\source\C# completo\Exercicio_FIXACAO_81\Exercicio_FIXACAO_81\bin\Debug\net6.0\Exercicio_FIXACAO_81.deps.json
+C:\Users\Hugo\source\C# completo\Exercicio_FIXACAO_81\Exercicio_FIXACAO_81\bin\Debug\net6.0\Exercicio_FIXACAO_81.runtimeconfig.json
+C:\Users\Hugo\source\C# completo\Exercicio_FIXACAO_81\Exercicio_FIXACAO_81\bin\Debug\net6.0\Exercicio_FIXACAO_81.dll
+C:\Users\Hugo\source\C# completo\Exercicio_FIXACAO_81\Exercicio_FIXACAO_81\bin\Debug\net6.0\Exercicio_FIXACAO_81.pdb
+C:\Users\Hugo\source\C# completo\Exercicio_FIXACAO_81\Exercicio_FIXACAO_81\obj\Debug\net6.0\Exercicio_FIXACAO_81.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\C# completo\Exercicio_FIXACAO_81\Exercicio_FIXACAO_81\obj\Debug\net6.0\Exercicio_FIXACAO_81.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\C# completo\Exercicio_FIXACAO_81\Exercicio_FIXACAO_81\obj\Debug\net6.0\Exercicio_FIXACAO_81.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\C# completo\Exercicio_FIXACAO_81\Exercicio_FIXACAO_81\obj\Debug\net6.0\Exercicio_FIXACAO_81.AssemblyInfo.cs
+C:\Users\Hugo\source\C# completo\Exercicio_FIXACAO_81\Exercicio_FIXACAO_81\obj\Debug\net6.0\Exercicio_FIXACAO_81.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\C# completo\Exercicio_FIXACAO_81\Exercicio_FIXACAO_81\obj\Debug\net6.0\Exercicio_FIXACAO_81.dll
+C:\Users\Hugo\source\C# completo\Exercicio_FIXACAO_81\Exercicio_FIXACAO_81\obj\Debug\net6.0\refint\Exercicio_FIXACAO_81.dll
+C:\Users\Hugo\source\C# completo\Exercicio_FIXACAO_81\Exercicio_FIXACAO_81\obj\Debug\net6.0\Exercicio_FIXACAO_81.pdb
+C:\Users\Hugo\source\C# completo\Exercicio_FIXACAO_81\Exercicio_FIXACAO_81\obj\Debug\net6.0\Exercicio_FIXACAO_81.genruntimeconfig.cache
+C:\Users\Hugo\source\C# completo\Exercicio_FIXACAO_81\Exercicio_FIXACAO_81\obj\Debug\net6.0\ref\Exercicio_FIXACAO_81.dll

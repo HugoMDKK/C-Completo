@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\C# completo\Exercício_40\Exercício_40\bin\Debug\net6.0\Exercício_40.exe
+C:\Users\Hugo\source\C# completo\Exercício_40\Exercício_40\bin\Debug\net6.0\Exercício_40.deps.json
+C:\Users\Hugo\source\C# completo\Exercício_40\Exercício_40\bin\Debug\net6.0\Exercício_40.runtimeconfig.json
+C:\Users\Hugo\source\C# completo\Exercício_40\Exercício_40\bin\Debug\net6.0\Exercício_40.dll
+C:\Users\Hugo\source\C# completo\Exercício_40\Exercício_40\bin\Debug\net6.0\Exercício_40.pdb
+C:\Users\Hugo\source\C# completo\Exercício_40\Exercício_40\obj\Debug\net6.0\Exercício_40.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\C# completo\Exercício_40\Exercício_40\obj\Debug\net6.0\Exercício_40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\C# completo\Exercício_40\Exercício_40\obj\Debug\net6.0\Exercício_40.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\C# completo\Exercício_40\Exercício_40\obj\Debug\net6.0\Exercício_40.AssemblyInfo.cs
+C:\Users\Hugo\source\C# completo\Exercício_40\Exercício_40\obj\Debug\net6.0\Exercício_40.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\C# completo\Exercício_40\Exercício_40\obj\Debug\net6.0\Exercício_40.dll
+C:\Users\Hugo\source\C# completo\Exercício_40\Exercício_40\obj\Debug\net6.0\refint\Exercício_40.dll
+C:\Users\Hugo\source\C# completo\Exercício_40\Exercício_40\obj\Debug\net6.0\Exercício_40.pdb
+C:\Users\Hugo\source\C# completo\Exercício_40\Exercício_40\obj\Debug\net6.0\Exercício_40.genruntimeconfig.cache
+C:\Users\Hugo\source\C# completo\Exercício_40\Exercício_40\obj\Debug\net6.0\ref\Exercício_40.dll

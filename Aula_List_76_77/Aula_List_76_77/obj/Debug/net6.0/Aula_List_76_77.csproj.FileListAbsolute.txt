@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\C# completo\Aula_List_76_77\Aula_List_76_77\bin\Debug\net6.0\Aula_List_76_77.exe
+C:\Users\Hugo\source\C# completo\Aula_List_76_77\Aula_List_76_77\bin\Debug\net6.0\Aula_List_76_77.deps.json
+C:\Users\Hugo\source\C# completo\Aula_List_76_77\Aula_List_76_77\bin\Debug\net6.0\Aula_List_76_77.runtimeconfig.json
+C:\Users\Hugo\source\C# completo\Aula_List_76_77\Aula_List_76_77\bin\Debug\net6.0\Aula_List_76_77.dll
+C:\Users\Hugo\source\C# completo\Aula_List_76_77\Aula_List_76_77\bin\Debug\net6.0\Aula_List_76_77.pdb
+C:\Users\Hugo\source\C# completo\Aula_List_76_77\Aula_List_76_77\obj\Debug\net6.0\Aula_List_76_77.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\C# completo\Aula_List_76_77\Aula_List_76_77\obj\Debug\net6.0\Aula_List_76_77.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\C# completo\Aula_List_76_77\Aula_List_76_77\obj\Debug\net6.0\Aula_List_76_77.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\C# completo\Aula_List_76_77\Aula_List_76_77\obj\Debug\net6.0\Aula_List_76_77.AssemblyInfo.cs
+C:\Users\Hugo\source\C# completo\Aula_List_76_77\Aula_List_76_77\obj\Debug\net6.0\Aula_List_76_77.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\C# completo\Aula_List_76_77\Aula_List_76_77\obj\Debug\net6.0\Aula_List_76_77.dll
+C:\Users\Hugo\source\C# completo\Aula_List_76_77\Aula_List_76_77\obj\Debug\net6.0\refint\Aula_List_76_77.dll
+C:\Users\Hugo\source\C# completo\Aula_List_76_77\Aula_List_76_77\obj\Debug\net6.0\Aula_List_76_77.pdb
+C:\Users\Hugo\source\C# completo\Aula_List_76_77\Aula_List_76_77\obj\Debug\net6.0\Aula_List_76_77.genruntimeconfig.cache
+C:\Users\Hugo\source\C# completo\Aula_List_76_77\Aula_List_76_77\obj\Debug\net6.0\ref\Aula_List_76_77.dll

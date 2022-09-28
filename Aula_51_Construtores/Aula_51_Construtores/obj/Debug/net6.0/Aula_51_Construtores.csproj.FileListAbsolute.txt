@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\C# completo\Aula_51_Construtores\Aula_51_Construtores\bin\Debug\net6.0\Aula_51_Construtores.exe
+C:\Users\Hugo\source\C# completo\Aula_51_Construtores\Aula_51_Construtores\bin\Debug\net6.0\Aula_51_Construtores.deps.json
+C:\Users\Hugo\source\C# completo\Aula_51_Construtores\Aula_51_Construtores\bin\Debug\net6.0\Aula_51_Construtores.runtimeconfig.json
+C:\Users\Hugo\source\C# completo\Aula_51_Construtores\Aula_51_Construtores\bin\Debug\net6.0\Aula_51_Construtores.dll
+C:\Users\Hugo\source\C# completo\Aula_51_Construtores\Aula_51_Construtores\bin\Debug\net6.0\Aula_51_Construtores.pdb
+C:\Users\Hugo\source\C# completo\Aula_51_Construtores\Aula_51_Construtores\obj\Debug\net6.0\Aula_51_Construtores.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\C# completo\Aula_51_Construtores\Aula_51_Construtores\obj\Debug\net6.0\Aula_51_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\C# completo\Aula_51_Construtores\Aula_51_Construtores\obj\Debug\net6.0\Aula_51_Construtores.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\C# completo\Aula_51_Construtores\Aula_51_Construtores\obj\Debug\net6.0\Aula_51_Construtores.AssemblyInfo.cs
+C:\Users\Hugo\source\C# completo\Aula_51_Construtores\Aula_51_Construtores\obj\Debug\net6.0\Aula_51_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\C# completo\Aula_51_Construtores\Aula_51_Construtores\obj\Debug\net6.0\Aula_51_Construtores.dll
+C:\Users\Hugo\source\C# completo\Aula_51_Construtores\Aula_51_Construtores\obj\Debug\net6.0\refint\Aula_51_Construtores.dll
+C:\Users\Hugo\source\C# completo\Aula_51_Construtores\Aula_51_Construtores\obj\Debug\net6.0\Aula_51_Construtores.pdb
+C:\Users\Hugo\source\C# completo\Aula_51_Construtores\Aula_51_Construtores\obj\Debug\net6.0\Aula_51_Construtores.genruntimeconfig.cache
+C:\Users\Hugo\source\C# completo\Aula_51_Construtores\Aula_51_Construtores\obj\Debug\net6.0\ref\Aula_51_Construtores.dll

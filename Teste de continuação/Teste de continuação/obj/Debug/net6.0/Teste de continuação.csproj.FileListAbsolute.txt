@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\C# completo\Teste de continuação\Teste de continuação\bin\Debug\net6.0\Teste de continuação.exe
+C:\Users\Hugo\source\C# completo\Teste de continuação\Teste de continuação\bin\Debug\net6.0\Teste de continuação.deps.json
+C:\Users\Hugo\source\C# completo\Teste de continuação\Teste de continuação\bin\Debug\net6.0\Teste de continuação.runtimeconfig.json
+C:\Users\Hugo\source\C# completo\Teste de continuação\Teste de continuação\bin\Debug\net6.0\Teste de continuação.dll
+C:\Users\Hugo\source\C# completo\Teste de continuação\Teste de continuação\bin\Debug\net6.0\Teste de continuação.pdb
+C:\Users\Hugo\source\C# completo\Teste de continuação\Teste de continuação\obj\Debug\net6.0\Teste de continuação.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\C# completo\Teste de continuação\Teste de continuação\obj\Debug\net6.0\Teste de continuação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\C# completo\Teste de continuação\Teste de continuação\obj\Debug\net6.0\Teste de continuação.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\C# completo\Teste de continuação\Teste de continuação\obj\Debug\net6.0\Teste de continuação.AssemblyInfo.cs
+C:\Users\Hugo\source\C# completo\Teste de continuação\Teste de continuação\obj\Debug\net6.0\Teste de continuação.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\C# completo\Teste de continuação\Teste de continuação\obj\Debug\net6.0\Teste de continuação.dll
+C:\Users\Hugo\source\C# completo\Teste de continuação\Teste de continuação\obj\Debug\net6.0\refint\Teste de continuação.dll
+C:\Users\Hugo\source\C# completo\Teste de continuação\Teste de continuação\obj\Debug\net6.0\Teste de continuação.pdb
+C:\Users\Hugo\source\C# completo\Teste de continuação\Teste de continuação\obj\Debug\net6.0\Teste de continuação.genruntimeconfig.cache
+C:\Users\Hugo\source\C# completo\Teste de continuação\Teste de continuação\obj\Debug\net6.0\ref\Teste de continuação.dll

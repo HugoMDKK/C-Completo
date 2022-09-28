@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\C# completo\Exercicio_56_Properties\Exercicio_56_Properties\bin\Debug\net6.0\Exercicio_56_Properties.exe
+C:\Users\Hugo\source\C# completo\Exercicio_56_Properties\Exercicio_56_Properties\bin\Debug\net6.0\Exercicio_56_Properties.deps.json
+C:\Users\Hugo\source\C# completo\Exercicio_56_Properties\Exercicio_56_Properties\bin\Debug\net6.0\Exercicio_56_Properties.runtimeconfig.json
+C:\Users\Hugo\source\C# completo\Exercicio_56_Properties\Exercicio_56_Properties\bin\Debug\net6.0\Exercicio_56_Properties.dll
+C:\Users\Hugo\source\C# completo\Exercicio_56_Properties\Exercicio_56_Properties\bin\Debug\net6.0\Exercicio_56_Properties.pdb
+C:\Users\Hugo\source\C# completo\Exercicio_56_Properties\Exercicio_56_Properties\obj\Debug\net6.0\Exercicio_56_Properties.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\C# completo\Exercicio_56_Properties\Exercicio_56_Properties\obj\Debug\net6.0\Exercicio_56_Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\C# completo\Exercicio_56_Properties\Exercicio_56_Properties\obj\Debug\net6.0\Exercicio_56_Properties.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\C# completo\Exercicio_56_Properties\Exercicio_56_Properties\obj\Debug\net6.0\Exercicio_56_Properties.AssemblyInfo.cs
+C:\Users\Hugo\source\C# completo\Exercicio_56_Properties\Exercicio_56_Properties\obj\Debug\net6.0\Exercicio_56_Properties.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\C# completo\Exercicio_56_Properties\Exercicio_56_Properties\obj\Debug\net6.0\Exercicio_56_Properties.dll
+C:\Users\Hugo\source\C# completo\Exercicio_56_Properties\Exercicio_56_Properties\obj\Debug\net6.0\refint\Exercicio_56_Properties.dll
+C:\Users\Hugo\source\C# completo\Exercicio_56_Properties\Exercicio_56_Properties\obj\Debug\net6.0\Exercicio_56_Properties.pdb
+C:\Users\Hugo\source\C# completo\Exercicio_56_Properties\Exercicio_56_Properties\obj\Debug\net6.0\Exercicio_56_Properties.genruntimeconfig.cache
+C:\Users\Hugo\source\C# completo\Exercicio_56_Properties\Exercicio_56_Properties\obj\Debug\net6.0\ref\Exercicio_56_Properties.dll

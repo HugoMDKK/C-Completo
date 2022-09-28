@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\C# completo\Exercicio_Teste_2\Exercicio_Teste_2\bin\Debug\net6.0\Exercicio_Teste_2.exe
+C:\Users\Hugo\source\C# completo\Exercicio_Teste_2\Exercicio_Teste_2\bin\Debug\net6.0\Exercicio_Teste_2.deps.json
+C:\Users\Hugo\source\C# completo\Exercicio_Teste_2\Exercicio_Teste_2\bin\Debug\net6.0\Exercicio_Teste_2.runtimeconfig.json
+C:\Users\Hugo\source\C# completo\Exercicio_Teste_2\Exercicio_Teste_2\bin\Debug\net6.0\Exercicio_Teste_2.dll
+C:\Users\Hugo\source\C# completo\Exercicio_Teste_2\Exercicio_Teste_2\bin\Debug\net6.0\Exercicio_Teste_2.pdb
+C:\Users\Hugo\source\C# completo\Exercicio_Teste_2\Exercicio_Teste_2\obj\Debug\net6.0\Exercicio_Teste_2.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\C# completo\Exercicio_Teste_2\Exercicio_Teste_2\obj\Debug\net6.0\Exercicio_Teste_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\C# completo\Exercicio_Teste_2\Exercicio_Teste_2\obj\Debug\net6.0\Exercicio_Teste_2.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\C# completo\Exercicio_Teste_2\Exercicio_Teste_2\obj\Debug\net6.0\Exercicio_Teste_2.AssemblyInfo.cs
+C:\Users\Hugo\source\C# completo\Exercicio_Teste_2\Exercicio_Teste_2\obj\Debug\net6.0\Exercicio_Teste_2.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\C# completo\Exercicio_Teste_2\Exercicio_Teste_2\obj\Debug\net6.0\Exercicio_Teste_2.dll
+C:\Users\Hugo\source\C# completo\Exercicio_Teste_2\Exercicio_Teste_2\obj\Debug\net6.0\refint\Exercicio_Teste_2.dll
+C:\Users\Hugo\source\C# completo\Exercicio_Teste_2\Exercicio_Teste_2\obj\Debug\net6.0\Exercicio_Teste_2.pdb
+C:\Users\Hugo\source\C# completo\Exercicio_Teste_2\Exercicio_Teste_2\obj\Debug\net6.0\Exercicio_Teste_2.genruntimeconfig.cache
+C:\Users\Hugo\source\C# completo\Exercicio_Teste_2\Exercicio_Teste_2\obj\Debug\net6.0\ref\Exercicio_Teste_2.dll

@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\C# completo\Exercicio_45_01\Exercicio_45_01\bin\Debug\net6.0\Exercicio_45_01.exe
+C:\Users\Hugo\source\C# completo\Exercicio_45_01\Exercicio_45_01\bin\Debug\net6.0\Exercicio_45_01.deps.json
+C:\Users\Hugo\source\C# completo\Exercicio_45_01\Exercicio_45_01\bin\Debug\net6.0\Exercicio_45_01.runtimeconfig.json
+C:\Users\Hugo\source\C# completo\Exercicio_45_01\Exercicio_45_01\bin\Debug\net6.0\Exercicio_45_01.dll
+C:\Users\Hugo\source\C# completo\Exercicio_45_01\Exercicio_45_01\bin\Debug\net6.0\Exercicio_45_01.pdb
+C:\Users\Hugo\source\C# completo\Exercicio_45_01\Exercicio_45_01\obj\Debug\net6.0\Exercicio_45_01.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\C# completo\Exercicio_45_01\Exercicio_45_01\obj\Debug\net6.0\Exercicio_45_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\C# completo\Exercicio_45_01\Exercicio_45_01\obj\Debug\net6.0\Exercicio_45_01.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\C# completo\Exercicio_45_01\Exercicio_45_01\obj\Debug\net6.0\Exercicio_45_01.AssemblyInfo.cs
+C:\Users\Hugo\source\C# completo\Exercicio_45_01\Exercicio_45_01\obj\Debug\net6.0\Exercicio_45_01.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\C# completo\Exercicio_45_01\Exercicio_45_01\obj\Debug\net6.0\Exercicio_45_01.dll
+C:\Users\Hugo\source\C# completo\Exercicio_45_01\Exercicio_45_01\obj\Debug\net6.0\refint\Exercicio_45_01.dll
+C:\Users\Hugo\source\C# completo\Exercicio_45_01\Exercicio_45_01\obj\Debug\net6.0\Exercicio_45_01.pdb
+C:\Users\Hugo\source\C# completo\Exercicio_45_01\Exercicio_45_01\obj\Debug\net6.0\Exercicio_45_01.genruntimeconfig.cache
+C:\Users\Hugo\source\C# completo\Exercicio_45_01\Exercicio_45_01\obj\Debug\net6.0\ref\Exercicio_45_01.dll

@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\C# completo\Aula_52_Sobrecarga\Aula_52_Sobrecarga\bin\Debug\net6.0\Aula_52_Sobrecarga.exe
+C:\Users\Hugo\source\C# completo\Aula_52_Sobrecarga\Aula_52_Sobrecarga\bin\Debug\net6.0\Aula_52_Sobrecarga.deps.json
+C:\Users\Hugo\source\C# completo\Aula_52_Sobrecarga\Aula_52_Sobrecarga\bin\Debug\net6.0\Aula_52_Sobrecarga.runtimeconfig.json
+C:\Users\Hugo\source\C# completo\Aula_52_Sobrecarga\Aula_52_Sobrecarga\bin\Debug\net6.0\Aula_52_Sobrecarga.dll
+C:\Users\Hugo\source\C# completo\Aula_52_Sobrecarga\Aula_52_Sobrecarga\bin\Debug\net6.0\Aula_52_Sobrecarga.pdb
+C:\Users\Hugo\source\C# completo\Aula_52_Sobrecarga\Aula_52_Sobrecarga\obj\Debug\net6.0\Aula_52_Sobrecarga.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\C# completo\Aula_52_Sobrecarga\Aula_52_Sobrecarga\obj\Debug\net6.0\Aula_52_Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\C# completo\Aula_52_Sobrecarga\Aula_52_Sobrecarga\obj\Debug\net6.0\Aula_52_Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\C# completo\Aula_52_Sobrecarga\Aula_52_Sobrecarga\obj\Debug\net6.0\Aula_52_Sobrecarga.AssemblyInfo.cs
+C:\Users\Hugo\source\C# completo\Aula_52_Sobrecarga\Aula_52_Sobrecarga\obj\Debug\net6.0\Aula_52_Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\C# completo\Aula_52_Sobrecarga\Aula_52_Sobrecarga\obj\Debug\net6.0\Aula_52_Sobrecarga.dll
+C:\Users\Hugo\source\C# completo\Aula_52_Sobrecarga\Aula_52_Sobrecarga\obj\Debug\net6.0\refint\Aula_52_Sobrecarga.dll
+C:\Users\Hugo\source\C# completo\Aula_52_Sobrecarga\Aula_52_Sobrecarga\obj\Debug\net6.0\Aula_52_Sobrecarga.pdb
+C:\Users\Hugo\source\C# completo\Aula_52_Sobrecarga\Aula_52_Sobrecarga\obj\Debug\net6.0\Aula_52_Sobrecarga.genruntimeconfig.cache
+C:\Users\Hugo\source\C# completo\Aula_52_Sobrecarga\Aula_52_Sobrecarga\obj\Debug\net6.0\ref\Aula_52_Sobrecarga.dll

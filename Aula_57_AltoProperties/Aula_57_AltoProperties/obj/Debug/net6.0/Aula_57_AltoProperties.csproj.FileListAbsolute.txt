@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\C# completo\Aula_57_AltoProperties\Aula_57_AltoProperties\bin\Debug\net6.0\Aula_57_AltoProperties.exe
+C:\Users\Hugo\source\C# completo\Aula_57_AltoProperties\Aula_57_AltoProperties\bin\Debug\net6.0\Aula_57_AltoProperties.deps.json
+C:\Users\Hugo\source\C# completo\Aula_57_AltoProperties\Aula_57_AltoProperties\bin\Debug\net6.0\Aula_57_AltoProperties.runtimeconfig.json
+C:\Users\Hugo\source\C# completo\Aula_57_AltoProperties\Aula_57_AltoProperties\bin\Debug\net6.0\Aula_57_AltoProperties.dll
+C:\Users\Hugo\source\C# completo\Aula_57_AltoProperties\Aula_57_AltoProperties\bin\Debug\net6.0\Aula_57_AltoProperties.pdb
+C:\Users\Hugo\source\C# completo\Aula_57_AltoProperties\Aula_57_AltoProperties\obj\Debug\net6.0\Aula_57_AltoProperties.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\C# completo\Aula_57_AltoProperties\Aula_57_AltoProperties\obj\Debug\net6.0\Aula_57_AltoProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\C# completo\Aula_57_AltoProperties\Aula_57_AltoProperties\obj\Debug\net6.0\Aula_57_AltoProperties.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\C# completo\Aula_57_AltoProperties\Aula_57_AltoProperties\obj\Debug\net6.0\Aula_57_AltoProperties.AssemblyInfo.cs
+C:\Users\Hugo\source\C# completo\Aula_57_AltoProperties\Aula_57_AltoProperties\obj\Debug\net6.0\Aula_57_AltoProperties.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\C# completo\Aula_57_AltoProperties\Aula_57_AltoProperties\obj\Debug\net6.0\Aula_57_AltoProperties.dll
+C:\Users\Hugo\source\C# completo\Aula_57_AltoProperties\Aula_57_AltoProperties\obj\Debug\net6.0\refint\Aula_57_AltoProperties.dll
+C:\Users\Hugo\source\C# completo\Aula_57_AltoProperties\Aula_57_AltoProperties\obj\Debug\net6.0\Aula_57_AltoProperties.pdb
+C:\Users\Hugo\source\C# completo\Aula_57_AltoProperties\Aula_57_AltoProperties\obj\Debug\net6.0\Aula_57_AltoProperties.genruntimeconfig.cache
+C:\Users\Hugo\source\C# completo\Aula_57_AltoProperties\Aula_57_AltoProperties\obj\Debug\net6.0\ref\Aula_57_AltoProperties.dll

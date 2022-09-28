@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\C# completo\Exercicio_resolvido_matriz\Exercicio_resolvido_matriz\obj\Debug\net6.0\Exercicio_resolvido_matriz.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\C# completo\Exercicio_resolvido_matriz\Exercicio_resolvido_matriz\obj\Debug\net6.0\Exercicio_resolvido_matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\C# completo\Exercicio_resolvido_matriz\Exercicio_resolvido_matriz\obj\Debug\net6.0\Exercicio_resolvido_matriz.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\C# completo\Exercicio_resolvido_matriz\Exercicio_resolvido_matriz\obj\Debug\net6.0\Exercicio_resolvido_matriz.AssemblyInfo.cs
+C:\Users\Hugo\source\C# completo\Exercicio_resolvido_matriz\Exercicio_resolvido_matriz\obj\Debug\net6.0\Exercicio_resolvido_matriz.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\C# completo\Exercicio_resolvido_matriz\Exercicio_resolvido_matriz\bin\Debug\net6.0\Exercicio_resolvido_matriz.exe
+C:\Users\Hugo\source\C# completo\Exercicio_resolvido_matriz\Exercicio_resolvido_matriz\bin\Debug\net6.0\Exercicio_resolvido_matriz.deps.json
+C:\Users\Hugo\source\C# completo\Exercicio_resolvido_matriz\Exercicio_resolvido_matriz\bin\Debug\net6.0\Exercicio_resolvido_matriz.runtimeconfig.json
+C:\Users\Hugo\source\C# completo\Exercicio_resolvido_matriz\Exercicio_resolvido_matriz\bin\Debug\net6.0\Exercicio_resolvido_matriz.dll
+C:\Users\Hugo\source\C# completo\Exercicio_resolvido_matriz\Exercicio_resolvido_matriz\bin\Debug\net6.0\Exercicio_resolvido_matriz.pdb
+C:\Users\Hugo\source\C# completo\Exercicio_resolvido_matriz\Exercicio_resolvido_matriz\obj\Debug\net6.0\Exercicio_resolvido_matriz.dll
+C:\Users\Hugo\source\C# completo\Exercicio_resolvido_matriz\Exercicio_resolvido_matriz\obj\Debug\net6.0\refint\Exercicio_resolvido_matriz.dll
+C:\Users\Hugo\source\C# completo\Exercicio_resolvido_matriz\Exercicio_resolvido_matriz\obj\Debug\net6.0\Exercicio_resolvido_matriz.pdb
+C:\Users\Hugo\source\C# completo\Exercicio_resolvido_matriz\Exercicio_resolvido_matriz\obj\Debug\net6.0\Exercicio_resolvido_matriz.genruntimeconfig.cache
+C:\Users\Hugo\source\C# completo\Exercicio_resolvido_matriz\Exercicio_resolvido_matriz\obj\Debug\net6.0\ref\Exercicio_resolvido_matriz.dll

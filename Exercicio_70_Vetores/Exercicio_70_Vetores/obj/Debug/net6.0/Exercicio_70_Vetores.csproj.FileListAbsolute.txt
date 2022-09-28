@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\C# completo\Exercicio_70_Vetores\Exercicio_70_Vetores\bin\Debug\net6.0\Exercicio_70_Vetores.exe
+C:\Users\Hugo\source\C# completo\Exercicio_70_Vetores\Exercicio_70_Vetores\bin\Debug\net6.0\Exercicio_70_Vetores.deps.json
+C:\Users\Hugo\source\C# completo\Exercicio_70_Vetores\Exercicio_70_Vetores\bin\Debug\net6.0\Exercicio_70_Vetores.runtimeconfig.json
+C:\Users\Hugo\source\C# completo\Exercicio_70_Vetores\Exercicio_70_Vetores\bin\Debug\net6.0\Exercicio_70_Vetores.dll
+C:\Users\Hugo\source\C# completo\Exercicio_70_Vetores\Exercicio_70_Vetores\bin\Debug\net6.0\Exercicio_70_Vetores.pdb
+C:\Users\Hugo\source\C# completo\Exercicio_70_Vetores\Exercicio_70_Vetores\obj\Debug\net6.0\Exercicio_70_Vetores.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\C# completo\Exercicio_70_Vetores\Exercicio_70_Vetores\obj\Debug\net6.0\Exercicio_70_Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\C# completo\Exercicio_70_Vetores\Exercicio_70_Vetores\obj\Debug\net6.0\Exercicio_70_Vetores.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\C# completo\Exercicio_70_Vetores\Exercicio_70_Vetores\obj\Debug\net6.0\Exercicio_70_Vetores.AssemblyInfo.cs
+C:\Users\Hugo\source\C# completo\Exercicio_70_Vetores\Exercicio_70_Vetores\obj\Debug\net6.0\Exercicio_70_Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\C# completo\Exercicio_70_Vetores\Exercicio_70_Vetores\obj\Debug\net6.0\Exercicio_70_Vetores.dll
+C:\Users\Hugo\source\C# completo\Exercicio_70_Vetores\Exercicio_70_Vetores\obj\Debug\net6.0\refint\Exercicio_70_Vetores.dll
+C:\Users\Hugo\source\C# completo\Exercicio_70_Vetores\Exercicio_70_Vetores\obj\Debug\net6.0\Exercicio_70_Vetores.pdb
+C:\Users\Hugo\source\C# completo\Exercicio_70_Vetores\Exercicio_70_Vetores\obj\Debug\net6.0\Exercicio_70_Vetores.genruntimeconfig.cache
+C:\Users\Hugo\source\C# completo\Exercicio_70_Vetores\Exercicio_70_Vetores\obj\Debug\net6.0\ref\Exercicio_70_Vetores.dll
