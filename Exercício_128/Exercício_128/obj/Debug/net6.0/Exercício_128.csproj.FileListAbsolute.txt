@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\C# completo\Exercício_128\Exercício_128\obj\Debug\net6.0\Exercício_128.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\C# completo\Exercício_128\Exercício_128\obj\Debug\net6.0\Exercício_128.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\C# completo\Exercício_128\Exercício_128\obj\Debug\net6.0\Exercício_128.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\C# completo\Exercício_128\Exercício_128\obj\Debug\net6.0\Exercício_128.AssemblyInfo.cs
+C:\Users\Hugo\source\C# completo\Exercício_128\Exercício_128\obj\Debug\net6.0\Exercício_128.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\C# completo\Exercício_128\Exercício_128\bin\Debug\net6.0\Exercício_128.exe
+C:\Users\Hugo\source\C# completo\Exercício_128\Exercício_128\bin\Debug\net6.0\Exercício_128.deps.json
+C:\Users\Hugo\source\C# completo\Exercício_128\Exercício_128\bin\Debug\net6.0\Exercício_128.runtimeconfig.json
+C:\Users\Hugo\source\C# completo\Exercício_128\Exercício_128\bin\Debug\net6.0\Exercício_128.dll
+C:\Users\Hugo\source\C# completo\Exercício_128\Exercício_128\bin\Debug\net6.0\Exercício_128.pdb
+C:\Users\Hugo\source\C# completo\Exercício_128\Exercício_128\obj\Debug\net6.0\Exercício_128.dll
+C:\Users\Hugo\source\C# completo\Exercício_128\Exercício_128\obj\Debug\net6.0\refint\Exercício_128.dll
+C:\Users\Hugo\source\C# completo\Exercício_128\Exercício_128\obj\Debug\net6.0\Exercício_128.pdb
+C:\Users\Hugo\source\C# completo\Exercício_128\Exercício_128\obj\Debug\net6.0\Exercício_128.genruntimeconfig.cache
+C:\Users\Hugo\source\C# completo\Exercício_128\Exercício_128\obj\Debug\net6.0\ref\Exercício_128.dll
