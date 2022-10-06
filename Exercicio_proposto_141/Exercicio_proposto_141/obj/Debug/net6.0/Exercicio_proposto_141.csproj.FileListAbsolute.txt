@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\C# completo\Exercicio_proposto_141\Exercicio_proposto_141\bin\Debug\net6.0\Exercicio_proposto_141.exe
+C:\Users\Hugo\source\C# completo\Exercicio_proposto_141\Exercicio_proposto_141\bin\Debug\net6.0\Exercicio_proposto_141.deps.json
+C:\Users\Hugo\source\C# completo\Exercicio_proposto_141\Exercicio_proposto_141\bin\Debug\net6.0\Exercicio_proposto_141.runtimeconfig.json
+C:\Users\Hugo\source\C# completo\Exercicio_proposto_141\Exercicio_proposto_141\bin\Debug\net6.0\Exercicio_proposto_141.dll
+C:\Users\Hugo\source\C# completo\Exercicio_proposto_141\Exercicio_proposto_141\bin\Debug\net6.0\Exercicio_proposto_141.pdb
+C:\Users\Hugo\source\C# completo\Exercicio_proposto_141\Exercicio_proposto_141\obj\Debug\net6.0\Exercicio_proposto_141.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\C# completo\Exercicio_proposto_141\Exercicio_proposto_141\obj\Debug\net6.0\Exercicio_proposto_141.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\C# completo\Exercicio_proposto_141\Exercicio_proposto_141\obj\Debug\net6.0\Exercicio_proposto_141.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\C# completo\Exercicio_proposto_141\Exercicio_proposto_141\obj\Debug\net6.0\Exercicio_proposto_141.AssemblyInfo.cs
+C:\Users\Hugo\source\C# completo\Exercicio_proposto_141\Exercicio_proposto_141\obj\Debug\net6.0\Exercicio_proposto_141.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\C# completo\Exercicio_proposto_141\Exercicio_proposto_141\obj\Debug\net6.0\Exercicio_proposto_141.dll
+C:\Users\Hugo\source\C# completo\Exercicio_proposto_141\Exercicio_proposto_141\obj\Debug\net6.0\refint\Exercicio_proposto_141.dll
+C:\Users\Hugo\source\C# completo\Exercicio_proposto_141\Exercicio_proposto_141\obj\Debug\net6.0\Exercicio_proposto_141.pdb
+C:\Users\Hugo\source\C# completo\Exercicio_proposto_141\Exercicio_proposto_141\obj\Debug\net6.0\Exercicio_proposto_141.genruntimeconfig.cache
+C:\Users\Hugo\source\C# completo\Exercicio_proposto_141\Exercicio_proposto_141\obj\Debug\net6.0\ref\Exercicio_proposto_141.dll
